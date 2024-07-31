@@ -12,7 +12,6 @@
     width: 100%;
 }
 
-/*configurar carrossel inserir na aula 25/07*/
 .swiper-button-prev,
 .swiper-button-next {
     display: none;
@@ -48,7 +47,6 @@ display:flcex;
 .botoes{
     display:flex;
 }
-
 
 .descricao-titulo{
     color:var(--laranja)
